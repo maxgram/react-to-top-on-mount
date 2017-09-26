@@ -1,6 +1,6 @@
 {
   "name": "react-to-top-on-mount",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tiny React component to scroll window to top on componentDidMount",
   "main": "dist/index.js",
   "scripts": {
