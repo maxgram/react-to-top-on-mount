@@ -1,0 +1,19 @@
+{
+  "name": "react-to-top-on-mount",
+  "version": "0.0.1",
+  "description": "Tiny React library to scroll window to top on componentDidMount",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --presets babel-preset-env --out-dir dist"
+  },
+  "author": "Max Gram",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-preset-env": "^1.6.0"
+  }
+}
