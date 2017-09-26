@@ -1,7 +1,7 @@
 {
   "name": "react-to-top-on-mount",
   "version": "0.0.1",
-  "description": "Tiny React library to scroll window to top on componentDidMount",
+  "description": "Tiny React component to scroll window to top on componentDidMount",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
