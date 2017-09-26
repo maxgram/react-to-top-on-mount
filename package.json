@@ -1,6 +1,6 @@
 {
   "name": "react-to-top-on-mount",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Tiny React component to scroll window to top on componentDidMount",
   "main": "dist/index.js",
   "scripts": {
@@ -9,6 +9,13 @@
     "prepublish": "npm run build"
   },
   "author": "Max Gram",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/max-gram/react-to-top-on-mount.git"
+  },
+  "bugs": {
+    "url": "https://github.com/max-gram/react-to-top-on-mount/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "react": "^15.6.1"
