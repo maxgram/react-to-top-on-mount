@@ -7,14 +7,14 @@ Tiny React library to scroll window to top on componentDidMount
 import ToTopOnMount from 'react-to-top-on-mount'
 
 class SomeName extends Component {
-	render() {
-		<div>
-			<ToTopOnMount />
-			<div>
-				Some content
-			</div>
-		</div>
-	}
+  render() {
+    <div>
+      <ToTopOnMount />
+      <div>
+        Some content
+      </div>
+    </div>
+  }
 }
 
 ```
